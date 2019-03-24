@@ -1,0 +1,20 @@
+*{font-family: "Î¢ÈíÑÅºÚ";}
+	.tetrisContainer{
+		width: 91%;
+		height: 400px;
+		margin-top: 15px;
+    		margin-left: 15px;
+	}
+	#area tr td{
+		width: 70px;
+    		height: 25px;
+		border:1px solid #ccc;
+	}
+	input{
+		margin: 5px;
+	}
+	.defen{
+		margin-top: 10px;
+    		position: absolute;
+    		margin-left: 10px;
+	}
